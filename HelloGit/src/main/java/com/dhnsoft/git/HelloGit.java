@@ -1,4 +1,4 @@
-package com.dhnsoft.git;
+package java.com.dhnsoft.git;
 
 public class HelloGit {
     public static void main(String[] args) {
